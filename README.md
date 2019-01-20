@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/BC_1.JPG "Model Visualization"
-[image2 { width=50% }]: ./examples/images.png "Example Images"
+[image2]: ./examples/images.png "Example Images"
 [image3]: ./examples/run1.gif "Animation"
 [image4]: ./examples/model.jpg "Model Summary"
 
@@ -106,7 +106,7 @@ Layer 9: Fully connected layer with 1 neurons, Dropout(0.3), RELU activation
 Here is a visualization of the architecture:
 
 ![alt text][image1]
-![alt text][image4 { width=50% }]
+<img src="./examples/model.jpg" alt="Model" width="200" height="400"/>
 
 
 #### 3. Training Set & Training Process
