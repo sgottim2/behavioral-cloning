@@ -105,8 +105,8 @@ Layer 9: Fully connected layer with 1 neurons, Dropout(0.3), RELU activation
 
 Here is a visualization of the architecture:
 
-![alt text][image1]
-![alt text][image4]
+![alt text][image1 =240x480]
+![alt text][image4 =240x480]
 
 
 #### 3. Training Set & Training Process
