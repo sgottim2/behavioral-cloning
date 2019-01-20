@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Behavioral Cloning Project
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
@@ -123,3 +124,6 @@ Will run the video at 48 FPS. The default FPS is 60.
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+=======
+# behavioral-cloning
+>>>>>>> 567ff870cac2fbbcbdd16ba9099bd637b14e56bd
