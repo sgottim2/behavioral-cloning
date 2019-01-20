@@ -105,8 +105,11 @@ Layer 9: Fully connected layer with 1 neurons, Dropout(0.3), RELU activation
 
 Here is a visualization of the architecture:
 
-![alt text][image1]
-<img src="./examples/model.jpg" alt="Model" width="200" height="400"/>
+<img src="./examples/BC_1.JPG" align = "center" alt="Model Visualization" width="300" height="400"/>
+
+Here is the summary of the Model Architecture:
+
+<img src="./examples/model.jpg" align = "center" alt="Model Summary" width="300" height="400"/>
 
 
 #### 3. Training Set & Training Process
