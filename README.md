@@ -122,7 +122,7 @@ I used images from all the three cameras by adding/subtracting a correction fact
 
 After the collection process, I then preprocessed this data by adding gaussian blur with 3x3 kernel and converting to RGB image. I finally randomly shuffled the data set and put 20% of the data into a validation set. I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 2. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
-##### 4. Results
+#### 4. Results
 
 The model successfully navigates the car on the test track 1 witout pop up onto ledges or roll over any surfaces. However, the model failed to run on track 2 due to the complicated curves.
 Here is an animation of the simulation result:
